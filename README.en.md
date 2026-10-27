@@ -40,7 +40,7 @@ FFAA-Pack.bat     <- drop the folder on it, produces <foldername>_repack.zip
 | Repacking | Reuses the original compressed streams and ZIP metadata; unchanged input reproduces the original package byte for byte |
 | Cross-platform decode | `tools/ffaa_decode.py` works on macOS / Linux / any machine with Python 3 |
 
-Tested against packages `287` (an early partial-update package), `621` and `879` (Zipp Mini / Zipp 3rd gen). All three share the same structure; only the header length differs.
+Tested against packages `287` (an early partial-update package), `621` and `879` (Zipp Mini / Zipp). All three share the same structure; only the header length differs.
 
 ---
 
