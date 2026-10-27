@@ -1,4 +1,4 @@
-# Zipp / Libratone OTA (FFAA) Unpacker & Repacker
+# Libratone Zipp / Zipp Mini OTA (FFAA) Unpacker & Repacker
 
 **English** | [简体中文](README.md)
 
