@@ -1,0 +1,9 @@
+# Normalise text, keep Windows-native line endings for the scripts
+* text=auto eol=lf
+
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.py  text eol=lf
+*.md  text eol=lf
+LICENSE text eol=lf

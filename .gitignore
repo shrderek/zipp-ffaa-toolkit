@@ -1,0 +1,23 @@
+# Extracted firmware and vendor packages - never commit these
+*.zip
+*.bin
+*.img
+*.cpio
+*.ubifs
+ffaa_header.txt
+
+# Build / test leftovers
+*_repack.zip
+*_dec.zip
+~ffaa_*
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
+.idea/
