@@ -1,4 +1,4 @@
-# Libratone Zipp / Zipp Mini Firmware (FFAA) 解包与回打包工具
+# Libratone Zipp / Zipp Mini 固件 (FFAA) 解包与回打包工具
 
 [English](README.en.md) | **简体中文**
 
